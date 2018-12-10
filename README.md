@@ -1,2 +1,2 @@
-# PoliticalPropaganda
-Project for Introductory Data Analytics and Visualization
+# CMDA3654PoliticalPropaganda
+CMDA Political Propaganda Project
