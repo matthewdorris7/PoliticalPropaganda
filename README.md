@@ -1,7 +1,6 @@
-# CMDA3654PoliticalPropaganda
 
-## Introductory Data Analytics and Visualization Political Propaganda Project
-Did Russia interfere with the 2016 Election?
+# Introductory Data Analytics and Visualization Political Propaganda Project
+# Did Russia interfere with the 2016 Election?
 
 ## Background Information
 The 2016 election marked the first time a foreign nation was suspected of tampering with and influencing US citizens through Social Media. Our dataset pertains directly to this issue, all of these ads are sourced by the cryptic Internet Research Agency (IRA), a Moscow-backed group that sought to sow discontent and misinformation during the presidential election.
