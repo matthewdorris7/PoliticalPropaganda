@@ -1,11 +1,11 @@
 # CMDA3654PoliticalPropaganda
 
-##CMDA Political Propaganda Project
+## CMDA Political Propaganda Project
 Did Russia interfere with the 2016 Election?
 
 
 
-#Description of Dataset:
+# Description of Dataset:
 The dataset contains social media data, specifically Facebook and Twitter data, that the Permanent Select
 Committee on Intelligence of the US House of Representatives deemed to be connected to a well-known Russian
 “troll” farm called the Internet Research Agency (IRA). The Facebook data provided advertisement text, data on ad
